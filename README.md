@@ -1,9 +1,21 @@
-![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
+# Awesome-Profile-Readme-Templates
+[![GitHub Release](https://img.shields.io/github/release/zjayers/Awesome-Profile-README-templates.svg?style=flat)]()
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/Awesome-Profile-README-templates.svg?style=flat)]()
+[![Issues](https://img.shields.io/github/issues-raw/zjayers/Awesome-Profile-README-templates.svg?maxAge=25000)](https://github.com/zjayers/Awesome-Profile-README-templates/issues)
+[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/Awesome-Profile-README-templates/blob/master/LICENSEs)
 
+## Description
 
+> Work in progress
 
-The aim of this repository is to collect awesome READMEs that developers around the world are using on their own profiles to act as an inspiration for others. 
+## Features
 
-Feel free to add your own or someone else's profile README if you find it super awesome! 
+> Work in progress
 
-Don't forget to leave a ⭐ if you found this useful.
+## Installation
+
+> Work in progress
+
+## Usage
+
+> Work in progress
